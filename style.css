@@ -42,7 +42,7 @@
 /* ======== ESTILO BASE DO SITE ======== */
 body {
   font-family: Arial, sans-serif;   /* Fonte padrão usada em toda a página */
-  background-color: #f4f4f4;        /* Cor de fundo cinza claro */
+  background-color: #0f1a07;        /* Cor de fundo cinza claro */
   margin: 0;                        /* Remove a margem padrão do navegador */
   padding: 0;                       /* Remove o espaçamento interno padrão */
 }
@@ -69,13 +69,13 @@ body {
   height: 150px;                    /* Altura da foto */
   object-fit: cover;                /* Mantém a proporção da foto sem distorcer */
   border-radius: 50%;               /* Transforma a foto em um círculo */
-  border: 3px solid #2b6cb0;        /* Borda azul ao redor da foto */
+  border: 3px solid #37391f;        /* Borda azul ao redor da foto */
 }
 
 /* Nome principal (H1) */
 .header h1 {
   margin: 15px 0 5px;               /* Espaço em cima (15px), embaixo (5px) */
-  color: #2b6cb0;                   /* Cor azul do título */
+  color: #37391f;                   /* Cor azul do título */
 }
 
 /* Informações do cabeçalho (idade, cidade, contato) */
@@ -86,8 +86,8 @@ body {
 
 /* ======== TÍTULOS DE SEÇÃO (H2) ======== */
     h2 {
-    color: #2b6cb0;                   /* Cor azul do título */
-    border-bottom: 2px solid #2b6cb0; /* Linha azul logo abaixo do título */
+    color: #37391f;                   /* Cor azul do título */
+    border-bottom: 2px solid #37391f; /* Linha azul logo abaixo do título */
     padding-bottom: 5px;              /* Espaço entre o texto e a linha */
     margin-top: 30px;                 /* Espaço acima de cada seção */
     }
